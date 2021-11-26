@@ -8,7 +8,7 @@ Academic Course Assignments
 5. Linear Regression [ Stochastic Gradient Descent + Hyperparameter Tuning + Overfitting checking ]
 6. Logistic Regression ( Multiclass ) [ Hyperparameter Tuning + Overfitting checking ]
 7. Logistic Regression ( Multiclass ) [ Hyperparameter Tuning + Overfitting checking  + k-fold]
-8. Perceptron Learning Algorithm
+8. Perceptron Learning Algorithm ( PLA )
 9. Single Layer Perceptron ( SLP )
 10. Multi Layer Perceptron ( MLP )
 11. K-Medoid and K-Means
