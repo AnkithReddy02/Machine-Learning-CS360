@@ -1,6 +1,10 @@
 # Machine-Learning-CS360
 Academic Course Assignments
 
+These assignments are a part of Machine Learning Lab ( CS306 )
+
+Contents :
+
 1. Numpy and Pandas
 2. Program for dataset description
 3. Program for dataset description + plot of the dataset
